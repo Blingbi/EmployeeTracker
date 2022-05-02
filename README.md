@@ -13,6 +13,8 @@ Manages your employees of your buisness via comaand line node
 * [Contributors](#contributors)
 * [Test](#test)
 ## Installations (Dependencies) 💻
+Install Guide Videos:
+https://drive.google.com/file/d/19S5W8gnt2msvQeqRoumea3L3vH209HQy/view?usp=sharing
 To install dependencies, run these commands:
 ```
 inquirer mysql console.table
